@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 16 16:06:23 2020
-
-@author: andreatiloca
-"""
 import paho.mqtt.client as mqtt
 import sqlite3
 import mysql.connector
